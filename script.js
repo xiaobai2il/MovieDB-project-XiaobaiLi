@@ -8,6 +8,7 @@ const TABS = {
   LIKE: 'LiKED',
 };
 
+
 const model = {
   movieList: [],
   likedList: [],
