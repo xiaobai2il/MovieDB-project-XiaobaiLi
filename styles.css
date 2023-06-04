@@ -156,7 +156,7 @@ nav {
 
 .floatWindow-content .floatWindow-info {
   flex-grow: 1;
-  margin-left: 2rem;
+  margin-left: 1rem;
 }
 .floatWindow-content h3 {
   margin: 0.5rem 0;
